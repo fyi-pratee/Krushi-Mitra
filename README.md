@@ -1,4 +1,4 @@
-# Krushi Mitra
+# Krushi Mitra 🌱
 
 Krushi Mitra is a Karnataka-focused crop recommendation and advisory web app designed for farmers. It combines machine learning with agronomic data to suggest the best crops, explain soil suitability, reveal profit potential, and provide a bilingual AI assistant for practical farming advice.
 
